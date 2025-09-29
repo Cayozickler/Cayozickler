@@ -1,8 +1,8 @@
-# Olá, eu sou Cayo 👋
-<!-- GIF animado -->
-![GIF animado](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+# Olá, 👋
 
-Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação e tecnologia.
+Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação, IA's e tecnologia.
+
+![GIF animado]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.canva.com/design/DAG0YpuEkqk/2zkcNvPb1rGjx63EUvItXw/edit?utm_content=DAG0YpuEkqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## 📊 Estatísticas GitHub
 
