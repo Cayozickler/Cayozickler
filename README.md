@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação, IA's e tecnologia.
 
-![GIF animado]([[[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.canva.com/design/DAG0YpuEkqk/2zkcNvPb1rGjx63EUvItXw/edit?utm_content=DAG0YpuEkqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAG0YhK6dDc/nmcjpBRutktWM-mRb97Snw/edit?utm_content=DAG0YhK6dDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://cdn.discordapp.com/attachments/1043354895098593351/1422300368330690580/download_2_1.gif?ex=68dc2bf0&is=68dada70&hm=65a6bb3e80aad9e2cf90f970469739feddf40bb469abf5ac39c7733ddcdbafee&))
+![GIF animado]([[[[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.canva.com/design/DAG0YpuEkqk/2zkcNvPb1rGjx63EUvItXw/edit?utm_content=DAG0YpuEkqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAG0YhK6dDc/nmcjpBRutktWM-mRb97Snw/edit?utm_content=DAG0YhK6dDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://cdn.discordapp.com/attachments/1043354895098593351/1422300368330690580/download_2_1.gif?ex=68dc2bf0&is=68dada70&hm=65a6bb3e80aad9e2cf90f970469739feddf40bb469abf5ac39c7733ddcdbafee&)](https://cdn.discordapp.com/attachments/757555400131477605/1422302937186697236/download_2_1.gif?ex=68dc2e55&is=68dadcd5&hm=d76942af5d1f6e21e1a81d9a2490413729eb1fc08c9a6b89e184ea703e3c1493&))
 
 ## 📊 Estatísticas GitHub
 
