@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação, IA's e tecnologia.
 
-![GIF animado]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.canva.com/design/DAG0YpuEkqk/2zkcNvPb1rGjx63EUvItXw/edit?utm_content=DAG0YpuEkqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![GIF animado]([[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.canva.com/design/DAG0YpuEkqk/2zkcNvPb1rGjx63EUvItXw/edit?utm_content=DAG0YpuEkqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAG0YhK6dDc/nmcjpBRutktWM-mRb97Snw/edit?utm_content=DAG0YhK6dDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## 📊 Estatísticas GitHub
 
