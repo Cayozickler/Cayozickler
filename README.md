@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação, IA's e tecnologia.
 
-![GIF animado](https://cdn.discordapp.com/attachments/757555400131477605/1422302937186697236/download_2_1.gif)
+![GIF animado]([https://cdn.discordapp.com/attachments/757555400131477605/1422302937186697236/download_2_1.gif](https://cdn.discordapp.com/attachments/757555400131477605/1422302937186697236/download_2_1.gif?ex=68dc2e55&is=68dadcd5&hm=d76942af5d1f6e21e1a81d9a2490413729eb1fc08c9a6b89e184ea703e3c1493&))
 
 ## 📊 Estatísticas GitHub
 
