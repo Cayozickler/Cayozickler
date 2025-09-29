@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Cayo 👋
 
-<!--
-**Cayozickler/Cayozickler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, automação e tecnologia.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, JavaScript, TypeScript, Python  
+- **Frameworks e Bibliotecas:** React, Node.js, Bootstrap, TailwindCSS  
+- **Outros:** Git, GitHub, SQL, Android Studio, VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+### Estatísticas Gerais
+![Cayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cayozickler&show_icons=true&theme=dark_green&count_private=true)
+
+### Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayozickler&layout=compact&theme=dark_green)
+
