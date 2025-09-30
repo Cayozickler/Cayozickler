@@ -14,7 +14,7 @@ Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, autom
 
 ## 🌐 Me encontre também
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/SEU_CANAL)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cayo-zickler-b6247531b))
+[![LinkedIn](https://www.linkedin.com/in/cayo-zickler-b6247531b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_perfil)
 
 ## ⚡ Extras
