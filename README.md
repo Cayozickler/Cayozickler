@@ -25,8 +25,4 @@ Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, autom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cayo-zickler-b6247531b)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_perfil)
 
----
 
-## ⚡ Extras  
-- Layout com **preto, verde escuro e cinza** para visual moderno e minimalista  
-- GIF animado como banner clicável — quem clicar no banner vai para o seu LinkedIn
