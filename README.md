@@ -22,15 +22,14 @@ Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, autom
 
 ## 📊 Estatísticas GitHub
 
+---
+## 📊 Estatísticas GitHub
+
 ### Estatísticas gerais  
 ![Cayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cayozickler&show_icons=true&theme=dark_green&count_private=true)
 
 ### Linguagens mais usadas (Donut Chart)  
 ![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayozickler&layout=donut&theme=dark_green)
-
-### 🗓️ Consistência (GitHub Streak)
-![GitHub Streak](https://github-readme-streak.vercel.app/?user=Cayozickler&theme=dark_green)
-
 ---
 
 ## 🎯 Projetos e Contato
