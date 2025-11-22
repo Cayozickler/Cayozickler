@@ -17,21 +17,7 @@ Sou estudante de Ciência da Computação, apaixonado por desenvolvimento, autom
 | **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> |
 | **Web/Banco** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
 | **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
-
 ---
-
-## 📊 Estatísticas GitHub
-
----
-## 📊 Estatísticas GitHub
-
-### Estatísticas gerais  
-![Cayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cayozickler&show_icons=true&theme=dark_green&count_private=true)
-
-### Linguagens mais usadas (Donut Chart)  
-![Top Langs Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayozickler&layout=donut&theme=dark_green)
----
-
 ## 🎯 Projetos e Contato
 
 * **[Meus Projetos DIO](LINK_PARA_SEUS_PROJETOS):** Onde aplico os conhecimentos adquiridos na Digital Innovation One.
